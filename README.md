@@ -1,4 +1,4 @@
-<h1 align="center"><img src="./assets/Music.gif" width="30px"> Advanced Discord Music Bot <img src="./assets/Music.gif" width="30px"></h1>
+ align="center"><img src="./assets/Music.gif" width="30px"> Advanced Discord Music Bot <img src="./assets/Music.gif" width="30px"></h1>
 <p align="center">Thanks for 4k Views! I made this for you all!</p>
 <div align="center"><img src="./assets/banner.gif"></div>
 
@@ -9,7 +9,7 @@ Discord-MusicBot v4 will be launched shortly :tada: You can able to check out th
 Tutorial has been uploaded on YouTube <img src="https://www.youtube.com/about/static/svgs/icons/brand-resources/YouTube_icon_full-color.svg?cache=f2ec7a5" width="30px"> Watch it by clicking [here](https://youtu.be/DQXuTaYa31I)
 
 ## 📝 [Support Server](https://discord.gg/a9SHDpD)
-Got any error or any problem with the code? Join this server and ask your question instead of creating issues unless its a code bug. https://discord.gg/a9SHDpD
+Got any error or any problem with the code? Join this server and ask your question instead of creating issues u
 
 ## 📸 Screenshots
 
@@ -23,6 +23,4 @@ Heroku: [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.
 Contributions are always welcomed :D
 <a href="https://github.com/SudhanPlayz/Discord-MusicBot/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=SudhanPlayz/Discord-MusicBot" />
-</a>
 
-Made with :heart: and JavaScript!
